@@ -1,4 +1,5 @@
-### Globals settings
+﻿### Globals settings
+msg=abc;
 app.settings:
   host:
     dr: https://develop.drjoy.famishare.jp
